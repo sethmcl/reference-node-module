@@ -1,0 +1,16 @@
+{
+  "name": "reference-node-module",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-uuid": {
+      "version": "1.4.7",
+      "from": "node-uuid@>=1.4.7 <2.0.0",
+      "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz"
+    },
+    "small-uuid": {
+      "version": "1.0.1",
+      "from": "small-uuid@>=1.0.1 <2.0.0",
+      "resolved": "https://registry.npmjs.org/small-uuid/-/small-uuid-1.0.1.tgz"
+    }
+  }
+}

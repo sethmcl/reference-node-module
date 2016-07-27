@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sethmcl/reference-node-module/issues"
   },
-  "homepage": "https://github.com/sethmcl/reference-node-module#readme"
+  "homepage": "https://github.com/sethmcl/reference-node-module#readme",
+  "dependencies": {
+    "small-uuid": "^1.0.1"
+  }
 }
